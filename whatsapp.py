@@ -11,11 +11,16 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 
 # Define the target names (list of groups)
-group_names = ["Group 1", "Group 2" , "Group 3", "Group 4"]  # Update these names with your actual group names
+file_path = 'C:\\Users\\Hamza Yasin\\Downloads\\what\\sample.txt'  # Replace 'your_file.txt' with your actual file path
+with open(file_path, 'r') as file:
+    lines = file.readlines()
 
+# Remove newline characters from each string
+group_names = [line.strip() for line in lines]
 # Function to generate the message
 def message():
-    msg = ('Dear Student,'+'\n\nHope you are doing well.'+'\n\nWe hope your learning is going well, if you would like to schedule a session, please let us know. If you would like assistance in any other area, please feel free to get in touch with us. Happy Learning.'+'\n\nBest regards,'+'\nFuture Connect Training & Recruitment Ltd.')
+    msg = ("Dear Student,"+"\n\nHope you are doing well."+"\n\nWe hope your learning is going well, if you would like to schedule a session, please let us know. If you would like assistance in any other area, please feel free to get in touch with us."+ "\n\nWe're available for you from Monday to Saturday 10:00 am - 5:00 pm. Our trainer's support has also been extended for Sunday 9 am to 5 pm, Due to limited Slots you have to book a session on Saturday before 5pm."
++"\n\nBest Regards"+'\nFuture Connect Training & Recruitment Ltd.')
     return msg
 
 # Open WhatsApp Web
