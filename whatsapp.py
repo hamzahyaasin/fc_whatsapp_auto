@@ -11,7 +11,7 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 
 # Define the target names (list of groups)
-file_path = 'C:\\Users\\Hamza Yasin\\Downloads\\what\\sample.txt'  # Replace 'your_file.txt' with your actual file path
+file_path = 'C:\\Users\\Hamza Yasin\\Downloads\\what\\groups.txt'  # Replace 'your_file.txt' with your actual file path
 with open(file_path, 'r') as file:
     lines = file.readlines()
 
@@ -19,8 +19,8 @@ with open(file_path, 'r') as file:
 group_names = [line.strip() for line in lines]
 # Function to generate the message
 def message():
-    msg = ("Dear Student,"+"\n\nHope you are doing well."+"\n\nWe hope your learning is going well, if you would like to schedule a session, please let us know. If you would like assistance in any other area, please feel free to get in touch with us."+ "\n\nWe're available for you from Monday to Saturday 10:00 am - 5:00 pm. Our trainer's support has also been extended for Sunday 9 am to 5 pm, Due to limited Slots you have to book a session on Saturday before 5pm."
-+"\n\nBest Regards"+'\nFuture Connect Training & Recruitment Ltd.')
+    msg = ('''Hey fellow students! Heard about our awesome referral program? As currently enrolled student, you can earn a cool £50 internal referral bonus for each new student you refer to our company. Spread the word, bring in your friends and family, and let's build something amazing together! Don't miss out on this opportunity to earn rewards while helping our community grow.
+''')
     return msg
 
 # Open WhatsApp Web
@@ -57,7 +57,7 @@ for name in group_names:
 
     
     # Optional: Add a delay between sending messages to different groups
-    time.sleep(7)
+    time.sleep(3)
 
 # Consider manually logging out if needed, or simply close the browser.
 # Wait for a while before closing the browser
