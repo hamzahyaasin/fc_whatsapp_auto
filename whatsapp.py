@@ -5,13 +5,14 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import random
+from random import randint
 # Initialize the driver
 driver = webdriver.Chrome()
 driver.maximize_window()
 
 # Define the target names (list of groups)
-file_path = 'C:\\Users\\Hamza Yasin\\Downloads\\what\\groups.txt'  # Replace 'your_file.txt' with your actual file path
+file_path = 'C:\\Users\\Hamza Yasin\\Downloads\\fc_whatsapp\\fc_whatsapp_auto\\groups.txt'  # Replace 'your_file.txt' with your actual file path
 with open(file_path, 'r') as file:
     lines = file.readlines()
 
@@ -19,8 +20,16 @@ with open(file_path, 'r') as file:
 group_names = [line.strip() for line in lines]
 # Function to generate the message
 def message():
-    msg = ('''Hey fellow students! Heard about our awesome referral program? As currently enrolled student, you can earn a cool £50 internal referral bonus for each new student you refer to our company. Spread the word, bring in your friends and family, and let's build something amazing together! Don't miss out on this opportunity to earn rewards while helping our community grow.
-''')
+    msg = ('''Dear Student,
+
+Hope you are doing well.
+
+We hope your learning is going well, if you would like to schedule a session, please let us know. If you would like assistance in any other area, please feel free to get in touch with us. Happy Learning.
+
+We're available for you from Monday to Saturday 10:00 am - 5:00 pm. Our trainer's support has also been extended for Sunday 9 am to 5 pm, Due to limited Slots you have to book a session on Saturday before 5pm.
+
+Best regards,
+Future Connect Training & Recruitment Ltd. ''')
     return msg
 
 # Open WhatsApp Web
@@ -39,7 +48,7 @@ for name in group_names:
     WebDriverWait(driver, 20).until(EC.visibility_of_element_located((By.XPATH, search_input_xpath))).send_keys(name + Keys.ENTER)
 
     # Wait a bit to ensure the group chat is opened
-    time.sleep(2)
+    time.sleep(randint(2, 6))
 
     # Wait for the message box to be visible and interactable
     message_box_xpath = '//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[1]'
@@ -57,9 +66,9 @@ for name in group_names:
 
     
     # Optional: Add a delay between sending messages to different groups
-    time.sleep(3)
+    time.sleep(randint(4, 8))
 
 # Consider manually logging out if needed, or simply close the browser.
 # Wait for a while before closing the browser
-time.sleep(60)  # Adjust this timing based on your need
+time.sleep(120)  # Adjust this timing based on your need
 driver.quit()

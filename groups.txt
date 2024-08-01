@@ -8,7 +8,6 @@ DA Akash Jose 03/05/2024
 DA Monika Kumar 22/04/2024
 DA+BA Divya  09/05/24
 DA Victor Ogbara 08/01/2024
-DA Hussein Mwita 12/12/2023
 DS Francis 25/07/2023
 DA Tejas Thummar 05/01/2024
 BA Andrea Pontes 05/03/24
@@ -62,7 +61,6 @@ BA/DA Vishali Saroj 29/04/2024
 DS+DA Esther Egba 04/03/24
 DS Fredrick 21-10-23
 DA Gurshabsingh 30/08/2023
-DA Samson Aja 2/12/23
 DA Rudolf Abah 22/03/2024
 DS Adeyinka Mayowa 15/12/2023
 DA Prerak 07/02/24
@@ -88,7 +86,6 @@ DA Ravikumar Gajera 27/03/2024
 DA Allan Wenzslaus 28/10/2023
 DA w/t Master Projects Mkhuseli 20/02/24
 PowerBI/Adv Excel/SQL Christianah Titilope Alonge 18/04/2024
-DA Kevinabye Nundloll 9/11/23
 DS Ayushi Patel 23/12/2023
 DS Nirali Jaiswal 2/01/2024
 DA Anthonia Somefun 22/12/2023
@@ -115,9 +112,7 @@ DA Oluwafemi, 18 April 2023
 DA Ahmed Jassim 12/12/23
 DS Hayford Aboagye 8/25/23
 BA Jhanvi kotadiya 18/09/2023
-DA Deva Merlin 4/09/2023
 DS RUSSELL -21/10/23
-DS Habeeb Temitope 31/07/2023
 DA Omar 28/02/2024
 DS Ruvangi 30/03/2023
 DA MICHAEL PRICE 26/4/2024
@@ -125,7 +120,6 @@ DA Omolola Oyetoke 22/04/24
 DA MANOJ MANDHAPATI 23/1/2024
 DS Pankajbhai Senjaliya 18/10/2023
 DA Alfred Peter Obimpe 15/02/24
-DS Babajide Ejiwole 27/12/2023
 DA/BA Jay 01/02/2024
 DA NAYEEM AHMOD 10/2/2024
 DA Nishaben 3/28/24
@@ -138,7 +132,6 @@ DS Damilola Odusanya 3/25/2024
 DA Kanchan 13/03/2024
 DS Md Ahmed 3/6/2023
 DA Aparna Jethwa 16/05/2023
-DA Vishva Joshi, 08/04/24
 DS Muhammed Ali 22/08/23
 DA Chinedu Ezeani 10/04/2024
 DA Funmilayo 10/04/2024
@@ -157,7 +150,6 @@ DA Manikanta Pothala 17/04/2024
 DA Rushita Bhanderi 13/04/2024
 DA Bhargav Diyora 26/02/24
 DS Faisal Qureshi 25/03/2024
-DA Shweta Toraskar 16/10/2023
 DA Miriam Onyenuforo 17/02/24
 DA Olubisi 24/04/2024
 DA/DS Cloud Comp  Roshika 27/02/24
@@ -208,3 +200,91 @@ CDA Hussein 19/09/2023
 DA Harsha Vankayalapati 12/01/2024
 DA Faruq Olanrewaju 18/01/2024
 DA Adit Kumar 27/02/2024
+DS Ganiyu Ibrahim 22/05/2024
+DS Ogochukwu Onwubolu 03/06/2024
+DS Sunday 08/06/24
+DS Ebenezer Bishop 13/06/2024
+DS Dhavalbhai Rana 30/04/2024
+DS+Excel+Power BI+Tableau+R Sayeeda Yasmin
+DS Padmaja Allu 29/06/2024
+DS Naresh Reddy Macharam 27/06/2024
+DS Chukwuemeka Chukwuma 03/07/2024
+DS Akhila Puravath Mohanan 08/07/2024
+DS+DA Dhruvin Shah 17/07/2024
+DS Simon Isaacs 15/07/2024
+DS Mpokiseng 21/07/2024
+DS Manoj Sai Koppolu 27/07/2024
+DA Adekunle Abiona 11/05/2024
+DA Harsh Patel 11/05/2024
+DA Sodiq 11/05/24
+DA Sravanthi 14/05/24
+DA Chibuenyim Chidiadi 14/05/2024
+DA Meghna Vichare 15/05/2024
+DA/BA Laura Ihegbu 17/05/2024
+DA Laureta Hajderanj 17/05/2024
+DA Kelvin Ugwu 20/5/2024
+DA Sunday Edeh 21/05/2024
+DA Ehi Ujiagbe 21/05/2024
+DA+BA Amit Shetye 22/05/2024
+DA Awawu Mapelujo 25/05/2024
+DA Richmond 13/05/24
+DA Indira Gorli 28/05/2024
+DA+Docker+ADV ML+AIMP Jugal Bala 29/05/2024
+DA Siva Sahith Namburi 31/05/2024
+DA Neerav Patel 25/05/2024
+DA Dhruval Shah 10/05/24
+DA Tooba Ahmad 01/06/2024
+DA Murali Imandi 01/06/2024
+DA Munyaradzi Albert Mangwiro 04/06/2024
+DA Jayalakshmi 07/06/2024
+DA + DS Michael Osazuwa 07/06/2024
+DA Paras Lukhi 08/06/2024
+DA K M SAFWAN HASSAN 08/06/2024
+DS + DA Pranathi Kandukuri 10/06/2024
+DA  JOSEPH ETTAH 11/06/2024
+DA Virti Salot 11/06/2024
+DA+ BA Divya pranava sesha sai 10/06/2024
+DA Princy Sonani 12/06/24
+DA Aarthi Manickavelu 03/06/2024
+DS+DA Yugendharan Nagarajan 15/06/2024
+DA Kajal 20/06/24
+DA NAITIK MISTRY 10/07/2024
+DA+AML&Master Project DS Okonkwo Chidozie
+DA+DS Minjun Choi 26/06/2024
+DA Johnson Thomas 27/06/2024
+DA Govind Nair 20/06/2024
+DA Kalpana Sridharan 01/07/2024
+DA YUSUF OLAYINKA 01/07/2024
+DA Sodiq Iyanu Yinusa 01/07/2024
+DA+DS Hassan Rageh 01/07/24
+DA Marian Doku 02/07/2024
+DA Karthik Anchuri 03/07/2024
+DA Ilyas Odunayo Ajagbe 11/07/2024
+DA Kamela Amiry 11/07/24
+DA Meghana Shah 12/07/2024
+DA Benson Osawe 06/07/2024
+DA Mohammed Abdul Musaddiq 13/07/2024
+DA Samuel Adekanbi 16/07/2024
+DA Richie Heron 16/07/2024
+DA Bushra Ghori 13/07/2024
+DA Mamoun Awel 17/07/2024
+DA Pooja Dhameliya 20/07/2024
+DA Farouk Oladapo 22/07/2024
+DA Hirpara krunalkumar 23/07/2024
+DA Minoshka Vales 23/07/2024
+DA RIDDHI JASANI 25/07/2024
+DA Patrick Kwabla 26/7/2024
+DA Bhumika Hiragar 27/07/2024
+BA SOORYA MOHANDAS 20/05/2024
+BA Julian Osondu 25/05/2024
+BA Sahana Shirin 28/05/2024
+BA David-Paul .C.C Onaga 29/05/2024
+BA Rahul Joshi 10/06/24
+BA Nigel Kandemiri 01/03/2024
+BA Toju Omegbemi 21/06/2024
+BA Oluwasanmi Oguntuase 25/06/2024
+BA Rasaki Yusuf 29/06/2024
+BA+DA Odaro Udi 02/07/2024
+BA +DA Anita Dhanj 06/07/24
+BA Iredia Collins 23/07/2024
+
